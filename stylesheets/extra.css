@@ -1,0 +1,20 @@
+/* Styling for Collapsible H2 */
+h2.collapsible-h2 {
+  cursor: pointer;
+  user-select: none;
+}
+
+/* Add expandable indicator arrow */
+h2.collapsible-h2::after {
+  content: " ▾";
+  font-size: 0.8em;
+  opacity: 0.7;
+  display: inline-block;
+  margin-left: 8px;
+  transition: transform 0.2s ease;
+}
+
+/* Arrow state when collapsed */
+h2.collapsible-h2.collapsed::after {
+  content: " ▸";
+}
