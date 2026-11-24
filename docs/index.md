@@ -13,8 +13,8 @@ Welcome to my digital dump. This site contains my research, notes, and text file
 * **Dark Mode:** Use the sun/moon icon in the top right to switch themes.
 
 ### 📂 Recent Additions
-* [Nothing](Whatsapp%20chats/Nothing.md) — *Short description of what this is.*
-* [File Name 2](file2.md) — *Another quick note.*
+* [Nothing](Whatsapp%20chats/Nothing.md) — *Nothing*
+* [कालिदासोऽहम्](Others/कालिदासोऽहम्.md) — *कालिदास के जीवन चरित्र पर आधारित नाटक*
 
 ---
 *Last updated: {{ git_revision_date }}*
