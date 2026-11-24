@@ -1,6 +1,12 @@
 site_name: संस्कृतसंवादागारः
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/collapsible-headings.js
 site_url: https://samvadah.github.io/  # Change this to your actual URL
-site_author: Your Name
+site_author: संस्कृत संवादः
 
 theme:
   name: material
